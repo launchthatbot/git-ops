@@ -1,6 +1,6 @@
 ---
 name: launchthatbot-git-team-ops
-version: 0.1.3
+version: 0.1.4
 description: Role-based GitOps skill for OpenClaw agents with junior and senior operating modes.
 author: LaunchThatBot
 homepage: https://launchthatbot.com
