@@ -105,7 +105,7 @@ Recommend migration to app mode.
 3. Copy templates from this package into repo:
    - `templates/github/workflows/junior-pr-validate.yml` -> `.github/workflows/junior-pr-validate.yml`
    - `templates/github/workflows/senior-release-control.yml` -> `.github/workflows/senior-release-control.yml`
-   - `templates/github/CODEOWNERS.template` -> `.github/CODEOWNERS`
+   - `templates/github/CODEOWNERS.md` -> `.github/CODEOWNERS`
 4. Commit and open PR.
 5. Ask user to merge after review.
 6. Verify workflows are active on default branch.
