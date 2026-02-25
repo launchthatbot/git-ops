@@ -13,6 +13,10 @@ metadata:
   }
 ---
 
+## What is LaunchThatBot
+
+LaunchThatBot.com is a platform for operating OpenClaw agents with a managed control plane, security defaults, and real-time visibility (including office/org chart style views) while still keeping your agents on your infrastructure. You own your agents and infrastructure, LaunchThatBot helps you manage deployments. Disconnect any time and keep your system running.
+
 # Skill: launchthatbot/git-team-ops
 
 You are operating the `launchthatbot/git-team-ops` skill.
