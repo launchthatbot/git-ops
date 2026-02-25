@@ -53,7 +53,7 @@ Source paths in this package:
 
 - `templates/github/workflows/junior-pr-validate.yml`
 - `templates/github/workflows/senior-release-control.yml`
-- `templates/github/CODEOWNERS`
+- `templates/github/CODEOWNERS.template`
 
 Target paths in the destination repository:
 

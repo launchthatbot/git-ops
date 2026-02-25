@@ -1,6 +1,6 @@
 ---
 name: launchthatbot-git-team-ops
-version: 0.1.0
+version: 0.1.3
 description: Role-based GitOps skill for OpenClaw agents with junior and senior operating modes.
 author: LaunchThatBot
 homepage: https://launchthatbot.com
@@ -105,7 +105,7 @@ Recommend migration to app mode.
 3. Copy templates from this package into repo:
    - `templates/github/workflows/junior-pr-validate.yml` -> `.github/workflows/junior-pr-validate.yml`
    - `templates/github/workflows/senior-release-control.yml` -> `.github/workflows/senior-release-control.yml`
-   - `templates/github/CODEOWNERS` -> `.github/CODEOWNERS`
+   - `templates/github/CODEOWNERS.template` -> `.github/CODEOWNERS`
 4. Commit and open PR.
 5. Ask user to merge after review.
 6. Verify workflows are active on default branch.
