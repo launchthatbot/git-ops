@@ -103,9 +103,9 @@ Recommend migration to app mode.
 1. Validate access to target repository.
 2. Create branch `chore/gitops-bootstrap`.
 3. Copy templates from this package into repo:
-   - `templates/.github/workflows/junior-pr-validate.yml`
-   - `templates/.github/workflows/senior-release-control.yml`
-   - `templates/.github/CODEOWNERS`
+   - `templates/github/workflows/junior-pr-validate.yml` -> `.github/workflows/junior-pr-validate.yml`
+   - `templates/github/workflows/senior-release-control.yml` -> `.github/workflows/senior-release-control.yml`
+   - `templates/github/CODEOWNERS` -> `.github/CODEOWNERS`
 4. Commit and open PR.
 5. Ask user to merge after review.
 6. Verify workflows are active on default branch.
